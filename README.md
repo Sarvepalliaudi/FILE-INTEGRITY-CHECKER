@@ -77,3 +77,6 @@ MIT License — free to use and modify for personal or commercial Use
 
 ## Output pictures Of FILE INTEGRITY CHECKER
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/886badd1-3a77-4f4a-be30-99b1b390a994" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/eb8feac0-1df0-42ab-a3cd-6e2894d8c76c" />
